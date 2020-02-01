@@ -1,6 +1,1 @@
-asd
-avb
-dfg
-ag
-dodalem linie w plik1
-
+123
